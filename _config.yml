@@ -1,14 +1,28 @@
+name: One Earth Community
+favicon: null
 layout_spectrum: 0.8923903
-typography_spectrum: 0.8418948
+typography_spectrum: 0.74808
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7554449
-  lightness: 0.2251785
-  brandStrength: 0.7696025
   brandColors:
     - '#B2BCC8'
     - '#22320E'
     - '#858E95'
     - '#607827'
     - '#D9E1EE'
+  brandStrength: 0.7696025
+  lightness: 0.2251785
+  saturation: 0.7554449
   rhythmicContrast: 0.835115
-name: One Earth Community
+purpose: []
