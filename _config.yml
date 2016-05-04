@@ -3,12 +3,12 @@ typography_spectrum: 0.8418948
 color:
   saturation: 0.7554449
   lightness: 0.2251785
-  brandStrength: 0.2568441
-  rhythmicContrast: 0.835115
+  brandStrength: 0.7696025
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#B2BCC8'
+    - '#22320E'
+    - '#858E95'
+    - '#607827'
+    - '#D9E1EE'
+  rhythmicContrast: 0.835115
 name: One Earth Community
