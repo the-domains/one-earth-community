@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[One Earth Community]]></title>
         <description><![CDATA[One Earth Community]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 22:17:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 23:46:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/114a3788-8568-41ae-8a12-8aeaeebc90b7.jpg">]]></description>
+            <link>https://thegrid.ai/one-earth-community/communities-are-diverse/index.html</link>
+            <guid isPermaLink="false">af8d1af2-5451-4143-baf3-20e19413d2e9</guid>
+            <pubDate>Thu, 05 May 2016 23:46:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74495be9-aad4-44c0-ac9d-a1519004a3e7.jpg">]]></description>
-            <link>undefined0c05be6b-57b5-489c-b99e-4adc25fc960f/index.html</link>
+            <link>https://thegrid.ai/one-earth-community/0c05be6b-57b5-489c-b99e-4adc25fc960f/index.html</link>
             <guid isPermaLink="false">0c05be6b-57b5-489c-b99e-4adc25fc960f</guid>
             <pubDate>Thu, 05 May 2016 22:17:25 GMT</pubDate>
         </item>
