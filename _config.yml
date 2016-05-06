@@ -1,28 +1,40 @@
-name: One Earth Community
 favicon: null
-layout_spectrum: 0.87867
-typography_spectrum: 0.49405
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: One Earth Community
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5
+  brandStrength: 0.5
+  rhythmicContrast: 0.835115
   brandColors:
     - '#c3c3c3'
     - '#393c35'
     - '#aa6430'
     - '#fdfee0'
     - '#fcef41'
-  brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.835115
-purpose: []
+typography_spectrum: 0.49405
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
