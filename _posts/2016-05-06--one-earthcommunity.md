@@ -1,15 +1,23 @@
 ---
-title: '- One-Earth.Community'
-datePublished: '2016-05-06T17:57:39.983Z'
-dateModified: '2016-05-06T17:18:49.055Z'
-author: []
-isBasedOnUrl: 'http://www.one-earth.community'
-description: Community on a global scale. Simple.Organized. One subscription for all sub - communities.
-starred: false
-sourcePath: _posts/2016-05-06--one-earthcommunity.md
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.one-earth.community'
+inLanguage: null
+keywords: []
+description: Community on a global scale. Simple.Organized. One subscription for all sub - communities.
+datePublished: '2016-05-07T00:29:25.950Z'
+dateModified: '2016-05-07T00:29:18.624Z'
+title: '- One-Earth.Community'
+author: []
+sourcePath: _posts/2016-05-06--one-earthcommunity.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _type: MediaObject
 
 ---
