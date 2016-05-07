@@ -1,9 +1,7 @@
-favicon: null
 name: One Earth Community
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.75672
+typography_spectrum: 0.49405
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0.5
-  rhythmicContrast: 0.5
   brandColors:
     - '#c3c3c3'
     - '#393c35'
     - '#aa6430'
     - '#fdfee0'
     - '#fcef41'
+  brandStrength: 0.5
   lightness: 0.5
-typography_spectrum: 0.49405
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
