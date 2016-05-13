@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'https://en.m.wikipedia.org/wiki/South_Central_Pennsylvania'
-datePublished: '2016-05-12T23:36:07.002Z'
-dateModified: '2016-05-12T23:32:34.495Z'
+datePublished: '2016-05-13T09:58:19.265Z'
+dateModified: '2016-05-13T09:58:13.621Z'
 title: South Central Pennsylvania
 author: []
 sourcePath: _posts/2016-05-12-south-central-pennsylvania.md
