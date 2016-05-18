@@ -4,7 +4,7 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 11:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 15:57:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[- One-Earth.Community]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.one-earth.community</link>
             <guid isPermaLink="false">0e2d1034-f731-41a9-89a0-582a86494946</guid>
             <pubDate>Sat, 07 May 2016 01:20:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The fabulous fossils of Messel - a colourful world of birds and beetles]]></title>
+            <description><![CDATA[<article><h1>The fabulous fossils of Messel - a colourful world of birds and beetles</h1><p>something as fragile as a butterfly survives crushing forces of nature...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0b7d57118f5c3b6661a957c6ef0f3db66aac5af.jpg"></article>]]></description>
+            <link>https://www.theguardian.com/science/2016/may/18/the-fabulous-fossils-of-messel-a-colourful-world-of-birds-and-beetles</link>
+            <guid isPermaLink="false">f9145b50-b0f2-4270-8bf4-4de8e3ce5c28</guid>
+            <pubDate>Wed, 18 May 2016 15:57:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[10 mind-blowing facts about black holes]]></title>
@@ -68,13 +75,6 @@
             <link>http://time.com/4325882/german-renewable-energy-high/</link>
             <guid isPermaLink="false">f3415511-ac5f-419d-9052-db0d7f8e729a</guid>
             <pubDate>Wed, 11 May 2016 13:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life In Chernobyl After The Accident: Nature Wins The Battle Against Civilization]]></title>
-            <description><![CDATA[<article><h1>Life In Chernobyl After The Accident: Nature Wins The Battle Against Civilization</h1><p>http://www.boredpanda.com/live-nature-of-chernobyl-pripyat/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d0865112fee68ebd83cba8381b78783fbe66dba.jpg"></article>]]></description>
-            <link>http://www.boredpanda.com/live-nature-of-chernobyl-pripyat/</link>
-            <guid isPermaLink="false">e4fceb68-d640-4e15-9fb2-1ee6af0e7232</guid>
-            <pubDate>Mon, 09 May 2016 22:57:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
