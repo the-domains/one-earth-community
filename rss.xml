@@ -4,7 +4,7 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 21:45:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 19:57:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[- One-Earth.Community]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.one-earth.community</link>
             <guid isPermaLink="false">0e2d1034-f731-41a9-89a0-582a86494946</guid>
             <pubDate>Sat, 07 May 2016 01:20:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arctic Foxes 'Grow' Their Own Gardens]]></title>
+            <description><![CDATA[<article><h1>Arctic Foxes 'Grow' Their Own Gardens</h1><p>mother nature shows once more how adaptable and innovative her creatures can be...rao </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24cacd6cc74b9aed97421ade004f989346021d17.jpg"></article>]]></description>
+            <link>http://news.nationalgeographic.com/2016/05/160520-arctic-foxes-animals-science-alaska/</link>
+            <guid isPermaLink="false">83328f31-137d-4a93-9abd-cc549aa5925a</guid>
+            <pubDate>Fri, 20 May 2016 19:57:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[every day good things happen]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/one-earth-community/menu-item-2/index.html</link>
             <guid isPermaLink="false">dad536bd-aa1d-4656-b160-c8b5f7ae5f0f</guid>
             <pubDate>Fri, 13 May 2016 10:37:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[French landscape firm wins Pershing Square competition with call for 'radical flatness']]></title>
-            <description><![CDATA[<article><h1>French landscape firm wins Pershing Square competition with call for 'radical flatness'</h1><p>Are you ready for "radical flatness" at Pershing Square? Councilmember Jose Huizar announced Thursday morning that a team led by French landscape architecture firm Agence Ter has won a design competition to remake the much-maligned downtown park.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/638660eefabfd28dfe41dc210abf6e60fd6620d4.jpg"></article>]]></description>
-            <link>http://www.latimes.com/entertainment/arts/la-et-cm-pershing-square-winner-20160512-snap-story.html</link>
-            <guid isPermaLink="false">eea57375-ada4-458a-9c0f-2c0fb0bc3055</guid>
-            <pubDate>Thu, 12 May 2016 18:54:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
