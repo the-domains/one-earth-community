@@ -4,7 +4,7 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 00:47:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 14:05:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[- One-Earth.Community]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sat, 07 May 2016 01:20:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hubble Spies the Barred Spiral Galaxy NGC 4394]]></title>
+            <description><![CDATA[<article><h1>Hubble Spies the Barred Spiral Galaxy NGC 4394</h1><p>it’s a long way to go to look for a new home...we really need to take care of planet earth. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50d0fcc2d89ed412aec67d53e9bbf894b410fb8c.jpg"></article>]]></description>
+            <link>http://www.nasa.gov/image-feature/goddard/2016/hubble-spies-the-barred-spiral-galaxy-ngc-4394/</link>
+            <guid isPermaLink="false">9a5753c0-8d96-4eea-b4c2-ce31cc6b2b14</guid>
+            <pubDate>Sat, 21 May 2016 14:05:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[With Music]]></title>
-            <description><![CDATA[<article><h1>With Music</h1><p>Uploaded by Smartphone Minimalist on 2016-05-21.</p></article>]]></description>
+            <description><![CDATA[<article><h1>With Music</h1><p>Uploaded by Smartphone Minimalist on 2016-05-21.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db100e028df6b8a2cdc74cbf53f6c82e64cb9b7c.jpg"></article>]]></description>
             <link>https://youtu.be/W7oB61tpB6c</link>
             <guid isPermaLink="false">f93341dc-723e-4c8e-b2ba-898780fe4b8b</guid>
             <pubDate>Sat, 21 May 2016 00:47:18 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://news.discovery.com/human/psychology/13-things-you-shouldnt-do-on-friday-the-13th-130913.htm?utm_source=Twitter.com&amp;utm_campaign=Discovery&amp;utm_medium=social&amp;sf26234420=1</link>
             <guid isPermaLink="false">9e6f1e82-56b3-473b-b32c-f2353e427f11</guid>
             <pubDate>Fri, 13 May 2016 18:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Busting the Myth of Friday the 13th and the Knights Templar]]></title>
-            <description><![CDATA[<article><h1>Busting the Myth of Friday the 13th and the Knights Templar</h1><p>The origins of superstitions can be hard to pin down. There are often several theories about how they started, and a bunch of people ready to debunk those theories. Friday the 13th is one such example. If you read Dan Brown's The Da Vinci Code , you might remember learning that members of the Knights Templar-a medieval society-were arrested on Friday the 13th.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c904ae2cf3a40c62190cd75196e32f207e16882.jpg"></article>]]></description>
-            <link>http://news.nationalgeographic.com/2016/05/160512-friday-13-knights-templar-superstition/</link>
-            <guid isPermaLink="false">c9c595d8-e172-4df5-baa7-aebb9cb535e2</guid>
-            <pubDate>Fri, 13 May 2016 11:48:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
