@@ -4,7 +4,7 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 19:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 23:41:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[- One-Earth.Community]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.one-earth.community</link>
             <guid isPermaLink="false">0e2d1034-f731-41a9-89a0-582a86494946</guid>
             <pubDate>Sat, 07 May 2016 01:20:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Japanese Monk Is Making a VR World to Reflect the True Feudal Tokyo]]></title>
+            <description><![CDATA[<article><h1>A Japanese Monk Is Making a VR World to Reflect the True Feudal Tokyo</h1><p>technology will make history interactive and perhaps bring our youth to “enjoy” learning </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2dfba1f96d4bc082ec314456217ba1a025f2f43.jpg"></article>]]></description>
+            <link>http://motherboard.vice.com/en_uk/read/a-japanese-monk-is-making-a-vr-world-to-reflect-the-true-feudal-tokyo</link>
+            <guid isPermaLink="false">0f632c2f-aea0-4c90-8788-4b02d75fd55b</guid>
+            <pubDate>Sat, 21 May 2016 23:41:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mars Expected to Reach Closest Distance to Earth In Over a Decade]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.theguardian.com/science/2016/may/18/the-fabulous-fossils-of-messel-a-colourful-world-of-birds-and-beetles</link>
             <guid isPermaLink="false">f9145b50-b0f2-4270-8bf4-4de8e3ce5c28</guid>
             <pubDate>Wed, 18 May 2016 15:57:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 mind-blowing facts about black holes]]></title>
-            <description><![CDATA[<article><h1>10 mind-blowing facts about black holes</h1><p>I really don't believe I would want to be anywhere near such a phenomenal galactic event...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/222cd128c608054580910e4238f7ee32001dd344.jpg"></article>]]></description>
-            <link>http://www.businessinsider.com/10-facts-about-black-holes</link>
-            <guid isPermaLink="false">b9599cdb-b35c-4b9c-8426-6977f8c6d6a2</guid>
-            <pubDate>Wed, 18 May 2016 11:36:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
