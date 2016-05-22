@@ -4,7 +4,7 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 01:05:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 14:41:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[- One-Earth.Community]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.one-earth.community</link>
             <guid isPermaLink="false">0e2d1034-f731-41a9-89a0-582a86494946</guid>
             <pubDate>Sat, 07 May 2016 01:20:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unlikely friends? United States and Vietnam]]></title>
+            <description><![CDATA[<article><h1>Unlikely friends? United States and Vietnam</h1><p>The world is not all pretty pictures as we can attest to Found this article while having the morning cereal and coffee. I can remember very clearly through the late sixties the daily updates on the six o'clock news.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6c58f98db6ed727efedd2ef4fc6629a2bbb865f.jpg"></article>]]></description>
+            <link>http://www.cnn.com/2016/05/22/politics/vietnam-united-states-friends/index.html</link>
+            <guid isPermaLink="false">02758370-2eef-492e-bd87-34d320fdcf57</guid>
+            <pubDate>Sun, 22 May 2016 14:41:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Saturday in Pictures: Late-Night Lasers and More]]></title>
@@ -68,13 +75,6 @@
             <link>http://news.nationalgeographic.com/2016/05/160520-arctic-foxes-animals-science-alaska/</link>
             <guid isPermaLink="false">83328f31-137d-4a93-9abd-cc549aa5925a</guid>
             <pubDate>Fri, 20 May 2016 19:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bionic eye restores man's vision after being blind for 40 years]]></title>
-            <description><![CDATA[<article><h1>Bionic eye restores man's vision after being blind for 40 years</h1><p>the advancements in many medical fields continues despite the strangle hold of our health care system...rao</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b093197d11b3c72e887fd070427e446db4b86834.jpg"></article>]]></description>
-            <link>http://bgr.com/2016/05/18/bionic-eye-implant-restores-vision-blind-man/</link>
-            <guid isPermaLink="false">75579480-a606-46db-8a53-4e368ddf83a4</guid>
-            <pubDate>Wed, 18 May 2016 19:13:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
