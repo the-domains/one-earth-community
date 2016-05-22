@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://www.one-earth.community'
 inLanguage: null
 keywords: []
 description: Community on a global scale. Simple.Organized. One subscription for all sub - communities.
-datePublished: '2016-05-22T17:24:19.518Z'
-dateModified: '2016-05-22T17:09:42.689Z'
+datePublished: '2016-05-22T17:38:05.610Z'
+dateModified: '2016-05-22T17:28:35.138Z'
 title: '- One-Earth.Community'
 author:
   - name: ''
@@ -15,7 +15,7 @@ author:
 sourcePath: _posts/2016-05-06--one-earthcommunity.md
 authors: []
 publisher: null
-starred: true
+starred: false
 _type: MediaObject
 
 ---
