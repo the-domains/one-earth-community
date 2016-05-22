@@ -4,8 +4,15 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 18:39:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 20:39:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Maker of Things]]></title>
+            <description><![CDATA[<article><h1>The Maker of Things</h1><p>In the days of slide rules and hand shovels... We were makers of things. Extraordinary things that shaped society. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35f374b199921ac43185188f3c617f03ab2c9102.jpg"></article>]]></description>
+            <link>https://medium.com/@rands/the-maker-of-things-9c3f23b897a1</link>
+            <guid isPermaLink="false">64b4fadc-bb00-4592-b695-1af12dcf0ded</guid>
+            <pubDate>Sun, 22 May 2016 20:39:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[- One-Earth.Community]]></title>
             <description><![CDATA[<article><h1>- One-Earth.Community</h1><p>We All Live Under the Same Sun...One Earth...One Community</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cdd9b290e77b0c853e30151e8ac64fcac849c3e.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.nasa.gov/image-feature/goddard/2016/hubble-spies-the-barred-spiral-galaxy-ngc-4394/</link>
             <guid isPermaLink="false">9a5753c0-8d96-4eea-b4c2-ce31cc6b2b14</guid>
             <pubDate>Sat, 21 May 2016 14:05:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[With Music]]></title>
-            <description><![CDATA[<article><h1>With Music</h1><p>Uploaded by Smartphone Minimalist on 2016-05-21.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db100e028df6b8a2cdc74cbf53f6c82e64cb9b7c.jpg"></article>]]></description>
-            <link>https://youtu.be/W7oB61tpB6c</link>
-            <guid isPermaLink="false">f93341dc-723e-4c8e-b2ba-898780fe4b8b</guid>
-            <pubDate>Sat, 21 May 2016 00:47:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
