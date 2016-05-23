@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: One Earth Community
 opengraph:
   image: null
   type: null
@@ -31,10 +29,12 @@ color:
     - '#fcef41'
   lightness: 0.5625
 typography_spectrum: 0.40024
+layout_spectrum: 0.7867884
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.6514501
-favicon: null
-name: One Earth Community
+analytics:
+  twitter: null
+  google: null
+  facebook: null
