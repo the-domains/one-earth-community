@@ -1,3 +1,4 @@
+favicon: null
 cta:
   bucket: null
   version: null
@@ -12,29 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.8125
   brandStrength: 0
-  rhythmicContrast: 0.5
+  lightness: 0.4516649
   brandColors:
     - '#c3c3c3'
     - '#393c35'
     - '#aa6430'
     - '#fdfee0'
     - '#fcef41'
-  lightness: 0.5625
+  rhythmicContrast: 0.5
 typography_spectrum: 0.40024
 layout_spectrum: 0.6245972
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: One Earth Community
