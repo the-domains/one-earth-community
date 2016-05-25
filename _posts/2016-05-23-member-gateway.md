@@ -1,17 +1,17 @@
 ---
-description: ''
-datePublished: '2016-05-24T01:41:01.592Z'
+inFeed: false
+hasPage: true
 inNav: true
 inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-25T10:49:59.922Z'
+dateModified: '2016-05-25T10:46:59.680Z'
 author: []
 sourcePath: _posts/2016-05-23-member-gateway.md
-hasPage: true
-authors: []
 title: One earth...One Community
+authors: []
 publisher: null
-keywords: []
-dateModified: '2016-05-24T01:22:20.322Z'
-inFeed: false
 starred: false
 url: one-earthone-community/index.html
 _type: WebPage
