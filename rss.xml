@@ -4,7 +4,7 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 19:44:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 17:32:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[One-Earth.Community]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.one-earthcommunity.photography/</link>
             <guid isPermaLink="false">3941ea8e-441e-49ce-88fa-45c731638dca</guid>
             <pubDate>Fri, 27 May 2016 19:44:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk vs Warren Buffett: how two titans see carbon-free electricity]]></title>
+            <description><![CDATA[<article><h1>Elon Musk vs Warren Buffett: how two titans see carbon-free electricity</h1><p>So we’re talking the what is going on in Nevada...hydro vs solar. Both are vital components in our energy production. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b854f10cc0e29c5282ade522151fa78b1c785be4.jpg"></article>]]></description>
+            <link>http://www.csmonitor.com/Business/In-Gear/2016/0528/Elon-Musk-vs-Warren-Buffett-how-two-titans-see-carbon-free-electricity</link>
+            <guid isPermaLink="false">96253f48-0055-4344-8359-a0fa2f289151</guid>
+            <pubDate>Sun, 29 May 2016 17:31:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China: Students make terrifying school run]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.abc.net.au/news/2016-05-24/fukushima-operator-reveals-600-tonnes-melted-during-the-disaster/7396362</link>
             <guid isPermaLink="false">7344d6f1-e54f-4e28-9d08-55f29f25bfb4</guid>
             <pubDate>Tue, 24 May 2016 15:05:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Singapore lightning storm: 'Scary but beautiful' images captured - BBC News]]></title>
-            <description><![CDATA[<article><h1>Singapore lightning storm: 'Scary but beautiful' images captured - BBC News</h1><p>Singapore lightning storm: 'Scary but beautiful' images captured</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc19a9bc2f6bf581ceea695dd856dfa21c019833.jpg"></article>]]></description>
-            <link>http://www.bbc.co.uk/news/world-asia-36357465</link>
-            <guid isPermaLink="false">cd8113c7-3db6-4245-b2aa-b691ab9c5106</guid>
-            <pubDate>Tue, 24 May 2016 13:00:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
