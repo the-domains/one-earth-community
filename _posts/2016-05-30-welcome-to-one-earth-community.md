@@ -1,11 +1,11 @@
 ---
 description: 'http://www.one-earthcommunity.photography/'
-dateModified: '2016-05-30T21:01:41.980Z'
-datePublished: '2016-05-30T21:01:42.091Z'
+dateModified: '2016-05-30T21:02:11.212Z'
+datePublished: '2016-05-30T21:02:11.648Z'
 title: Welcome to One Earth Community
 author: []
-starred: false
 sourcePath: _posts/2016-05-30-welcome-to-one-earth-community.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
