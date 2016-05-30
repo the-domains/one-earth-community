@@ -1,11 +1,12 @@
 ---
-starred: false
-title: ''
-datePublished: '2016-05-29T19:05:20.065Z'
-dateModified: null
+title: An app called Musical.ly is the latest teen craze and it already has 70 million users
+datePublished: '2016-05-30T20:27:50.891Z'
+dateModified: '2016-05-30T20:27:50.755Z'
 author: []
 isBasedOnUrl: 'http://www.techinsider.io/what-is-musically-2016-5'
 sourcePath: _posts/2016-05-29-an-app-called-musically-is-the-latest-teen-craze-and-it-alr.md
+description: 'A social network...what is the definition these days ? Whatever. My main concern is that it benefits society. Did you ever watch Person of Interest ? '
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
