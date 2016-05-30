@@ -1,16 +1,16 @@
 ---
 title: One-Earth.Community
-datePublished: '2016-05-30T20:28:22.422Z'
-dateModified: '2016-05-30T20:28:22.268Z'
+datePublished: '2016-05-30T20:35:18.000Z'
+dateModified: '2016-05-30T20:35:17.703Z'
 author: []
 isBasedOnUrl: 'http://www.one-earthcommunity.photography/'
-description: 'Welcome to One-Earth.Community My name is Rick Ondrusek. My project is all about family and community. All of us have collections of photographs. There are stories of family and community in all of those collections. Follow along with stories and photos from: My All Across America. We all live under the Same Sun...'
+description: Welcome to One-Earth.Community. A social network that is all about...
 sourcePath: _posts/2016-05-26-one-earthcommunity.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-<article style=""><h1>One-Earth.Community</h1><p>Welcome to One-Earth.Community My name is Rick Ondrusek. My project is all about family and community. All of us have collections of photographs. There are stories of family and community in all of those collections. Follow along with stories and photos from: My All Across America. We all live under the Same Sun...</p><img src="http://www.one-earthcommunity.photography/img/s4/v66/p1452820237-4.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f60ada4427d09c5582d746addeed49347b83490.jpg" /><h1>One-Earth.Community</h1><p>Welcome to One-Earth.Community. A social network that is all about...</p></article>
