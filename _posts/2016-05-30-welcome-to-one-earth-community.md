@@ -1,8 +1,8 @@
 ---
-description: Welcome to One Earth Community
-dateModified: '2016-05-31T00:52:36.485Z'
-datePublished: '2016-05-31T00:52:36.713Z'
-title: 'Welcome '
+description: ''
+dateModified: '2016-05-31T00:55:21.881Z'
+datePublished: '2016-05-31T00:55:22.048Z'
+title: Welcome to One Earth Community
 author: []
 sourcePath: _posts/2016-05-30-welcome-to-one-earth-community.md
 starred: false
@@ -14,4 +14,4 @@ _type: MediaObject
 ---
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/011b4a3f-979e-4f4d-8d33-eaa5f5305259.png" /><h1>Welcome to One Earth Community</h1><p>Welcome to One Earth Community</p></article>
 
-## Welcome
+## Welcome to One Earth Community
