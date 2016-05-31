@@ -1,12 +1,12 @@
 ---
 title: One-Earth.Community
-datePublished: '2016-05-30T20:35:18.000Z'
-dateModified: '2016-05-30T20:35:17.703Z'
+datePublished: '2016-05-31T00:58:27.030Z'
+dateModified: '2016-05-31T00:58:26.810Z'
 author: []
 isBasedOnUrl: 'http://www.one-earthcommunity.photography/'
 description: Welcome to One-Earth.Community. A social network that is all about...
 sourcePath: _posts/2016-05-26-one-earthcommunity.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
