@@ -1,7 +1,7 @@
 ---
-description: 'http://www.one-earthcommunity.photography/'
-dateModified: '2016-05-30T21:02:11.212Z'
-datePublished: '2016-05-30T21:02:11.648Z'
+description: ''
+dateModified: '2016-05-31T00:39:46.197Z'
+datePublished: '2016-05-31T00:39:57.500Z'
 title: Welcome to One Earth Community
 author: []
 sourcePath: _posts/2016-05-30-welcome-to-one-earth-community.md
@@ -12,6 +12,4 @@ inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef9bf873-e52b-4f22-af50-fff5ca647631.png" /><h1>Welcome to One Earth Community</h1></article>
-
-http://www.one-earthcommunity.photography/
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/011b4a3f-979e-4f4d-8d33-eaa5f5305259.png" /><h1>Welcome to One Earth Community</h1></article>
