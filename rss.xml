@@ -4,7 +4,7 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 01:49:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 16:27:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[One-Earth.Community]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.one-earthcommunity.photography/</link>
             <guid isPermaLink="false">3941ea8e-441e-49ce-88fa-45c731638dca</guid>
             <pubDate>Tue, 31 May 2016 00:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Even at the speed of light…]]></title>
+            <description><![CDATA[<article><h1>Even at the speed of light…</h1><p>It may take light as much as a million years to escape from the sun's fiery interior; from there, it has to travel 93 million miles to Earth, traveling at 186,000 miles per second -- about 8 minutes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59462919d9909bbb4d10b44f24e47d9ba836dd60.png"></article>]]></description>
+            <link>http://www.sciencechannel.com/tv-shows/how-the-universe-works/videos/todays-sunlight-was-produced-before-human-civilization-began/</link>
+            <guid isPermaLink="false">063fffa4-30e0-4d2f-b6b5-616d8d1be57b</guid>
+            <pubDate>Thu, 02 Jun 2016 16:27:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://news.nationalgeographic.com/2016/05/160525-isle-de-jean-charles-louisiana-sinking-climate-change-refugees/?utm_source=Twitter&amp;utm_medium=Social&amp;utm_content=link_tw20160525news-climaterefugees&amp;utm_campaign=Content&amp;sf26906968=1</link>
             <guid isPermaLink="false">78a425a8-6705-49af-ace8-7da1eee4da43</guid>
             <pubDate>Wed, 25 May 2016 21:44:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Big Cats...gentle ]]></title>
-            <description><![CDATA[<article><h1>Big Cats...gentle </h1><p>Keeping a watchful eye. Beauty and speed. Graceful and unforgiving in protecting and providing for her offspring</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c084eb7ad77bc44b229b0c24d8111b0f8095fe6e.jpg"></article>]]></description>
-            <link>https://twitter.com/natgeo/status/735475281746644992</link>
-            <guid isPermaLink="false">0947d128-c977-412a-a17a-a5fedaf50637</guid>
-            <pubDate>Wed, 25 May 2016 16:41:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
