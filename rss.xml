@@ -4,7 +4,7 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 10:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 16:34:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[One-Earth.Community]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.one-earthcommunity.photography/</link>
             <guid isPermaLink="false">3941ea8e-441e-49ce-88fa-45c731638dca</guid>
             <pubDate>Tue, 31 May 2016 00:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Being Smart about energy production and energy consumption go hand in hand...]]></title>
+            <description><![CDATA[<article><h1>Being Smart about energy production and energy consumption go hand in hand...</h1><p>Access the survey results 'State of Industrial Internet Application Development' to learn about latest challenges, trends and opportunities with Industrial IoT, brought to you in partnership with GE Digital. The sun has an efficiency problem. Yes, it produces enough energy every hour to power 2,880 trillion light bulbs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05b3ca329ddc6151e2678daf9af69e75ba949ec9.jpg"></article>]]></description>
+            <link>https://dzone.com/articles/could-a-smart-water-heater-be-part-of-the-renewabl</link>
+            <guid isPermaLink="false">4685b26b-cd43-4ca4-b77b-80927169e631</guid>
+            <pubDate>Fri, 03 Jun 2016 16:34:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Even at the speed of light…]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.csmonitor.com/Business/In-Gear/2016/0528/Elon-Musk-vs-Warren-Buffett-how-two-titans-see-carbon-free-electricity</link>
             <guid isPermaLink="false">96253f48-0055-4344-8359-a0fa2f289151</guid>
             <pubDate>Sun, 29 May 2016 17:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China: Students make terrifying school run]]></title>
-            <description><![CDATA[<article><h1>China: Students make terrifying school run</h1><p>Now that is the drive our youth should have about their education...rao</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d2d72d31f18bf7f57bb41cab750a6f735dc127d.jpg"></article>]]></description>
-            <link>http://www.cnn.com/2016/05/27/europe/china-children-education-climb/index.html</link>
-            <guid isPermaLink="false">d66ce660-8b4f-4e7a-8044-6253387b551b</guid>
-            <pubDate>Fri, 27 May 2016 19:39:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
