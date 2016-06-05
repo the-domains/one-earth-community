@@ -4,7 +4,7 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 21:33:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 21:50:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[9 plants that bug bugs - including mosquitoes]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.one-earthcommunity.photography/</link>
             <guid isPermaLink="false">3941ea8e-441e-49ce-88fa-45c731638dca</guid>
             <pubDate>Tue, 31 May 2016 00:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photos: Top 10 Extreme Environments -- National Geographic]]></title>
+            <description><![CDATA[<article><h1>Photos: Top 10 Extreme Environments -- National Geographic</h1><p>Be inspired anew at the world's most intense places-and at your own strength in discovering them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c89c083b47c9d8af3d434a7e7cb79c8e6f146175.jpg"></article>]]></description>
+            <link>http://travel.nationalgeographic.com/travel/photos-top-10-extreme-environments/?sf27982602=1#/tucson-extreme-environment_86070_600x450.jpg</link>
+            <guid isPermaLink="false">b45a288d-93de-4c82-9be9-0518ca2cdc19</guid>
+            <pubDate>Sun, 05 Jun 2016 21:50:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Urban Parks Are Bringing Nature Close to Home]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/sciencechannel/status/737804636883722240</link>
             <guid isPermaLink="false">23e99915-950d-48b1-ad78-d9668a569f25</guid>
             <pubDate>Wed, 01 Jun 2016 00:49:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Killer Whales, Humans Have Much in Common]]></title>
-            <description><![CDATA[<article><h1>Killer Whales, Humans Have Much in Common</h1><p>Humans and killer whales have so much in common that the latter are now serving as a model for our species by showing how ecology, culture and evolution reveal themselves in genomes. Both killer whales, also called orcas, and humans are two of the world's most cosmopolitan animals, given that both include subgroups that migrated and quickly diversified from an ancestral population likely due to climate change.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9e07f9cb5ab08ad68fa513035b5ddac82c68cdf.jpg"></article>]]></description>
-            <link>http://www.seeker.com/killer-whales-humans-have-much-in-common-1831808826.html?sf27555329=1</link>
-            <guid isPermaLink="false">e09821b6-b27f-4535-8a40-6636b33c82fd</guid>
-            <pubDate>Tue, 31 May 2016 23:59:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
