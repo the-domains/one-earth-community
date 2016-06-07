@@ -5,14 +5,16 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'https://thegrid.ai/justme/'
-datePublished: '2016-06-07T11:24:10.067Z'
-dateModified: '2016-06-07T11:23:57.516Z'
+datePublished: '2016-06-07T11:26:33.579Z'
+dateModified: '2016-06-07T11:26:00.621Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-06-07-httpsthegridaijustme.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-07-httpsthegridaijustme.md
 url: httpsthegridaijustme/index.html
 _type: WebPage
 
