@@ -4,7 +4,7 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 01:50:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 02:09:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[One-Earth.Community]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.one-earthcommunity.photography/</link>
             <guid isPermaLink="false">3941ea8e-441e-49ce-88fa-45c731638dca</guid>
             <pubDate>Tue, 31 May 2016 00:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Star is Born]]></title>
+            <description><![CDATA[<article><h1>A Star is Born</h1><p>Check out @Cmdr_Hadfield's Tweet:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/330cbf0c3df1f198c07fa2f7bda3ac1c06b9c0ba.jpg"></article>]]></description>
+            <link>https://twitter.com/Cmdr_Hadfield/status/739824637543129088?s=09</link>
+            <guid isPermaLink="false">88d348f0-6f45-43d4-805e-71d54bd0f2d3</guid>
+            <pubDate>Thu, 09 Jun 2016 02:09:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Our Oceans ]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.abc.net.au/news/2016-05-24/fukushima-operator-reveals-600-tonnes-melted-during-the-disaster/7396362</link>
             <guid isPermaLink="false">7344d6f1-e54f-4e28-9d08-55f29f25bfb4</guid>
             <pubDate>Fri, 03 Jun 2016 10:18:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Park in Peru Is Nature 'in Its Full Glory'-With Hunters]]></title>
-            <description><![CDATA[<article><h1>This Park in Peru Is Nature 'in Its Full Glory'-With Hunters</h1><p>This story appears in the June 2016 issue of National Geographic magazine. Elias Machipango Shuverireni picks up his long, palm-wood bow and his arrows tipped with sharpened bamboo. We're going monkey hunting in Peru's Manú National Park-a huge swath of protected rain forest and one of the most biodiverse parks in the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0c86f4c5e031eebbbfa77d0a0adc80ea8e527f8.jpg"></article>]]></description>
-            <link>http://www.nationalgeographic.com/magazine/2016/06/manu-peru-biodiversity-national-parks?utm_source=Twitter&amp;utm_medium=Social&amp;utm_content=link_tw20160605ngm-manu&amp;utm_campaign=Content&amp;sf27781366=1</link>
-            <guid isPermaLink="false">adbca1f2-0a5a-411a-b463-a368a4e0f936</guid>
-            <pubDate>Fri, 03 Jun 2016 01:00:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
