@@ -4,7 +4,7 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 20:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2016 22:14:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[One-Earth.Community]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.one-earthcommunity.photography/</link>
             <guid isPermaLink="false">3941ea8e-441e-49ce-88fa-45c731638dca</guid>
             <pubDate>Sat, 18 Jun 2016 01:53:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Repurposing an old shipping container...]]></title>
+            <description><![CDATA[<article><h1>Repurposing an old shipping container...</h1><p>But Shawn Cooney may have found the greenest use yet -- literally. On a vacant lot near Boston's Logan Airport, Cooney is using four former freight containers -- plus one at another location -- to grow some 30,000 heads of lettuce, herbs and other leafy greens.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/131cded8b1b20898b9b6fee629014fff/noop.jpg?input=http%3A%2F%2Fi2.cdn.turner.com%2Fmoney%2Fdam%2Fassets%2F150609120556-corner-stalk-780x439.jpg"></article>]]></description>
+            <link>http://money.cnn.com/2015/06/24/technology/upstart30-freight-farms/index.html</link>
+            <guid isPermaLink="false">94a35d29-9b1b-4ebc-aad8-3657b15e6b9d</guid>
+            <pubDate>Sat, 18 Jun 2016 22:14:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Splash of color from Estonia]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/one-earth-community/great-message/index.html</link>
             <guid isPermaLink="false">34fc4d5e-3832-4c12-b2ee-cab8b81e071a</guid>
             <pubDate>Tue, 07 Jun 2016 11:11:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Photos: Top 10 Extreme Environments -- National Geographic]]></title>
-            <description><![CDATA[<article><h1>Photos: Top 10 Extreme Environments -- National Geographic</h1><p>Be inspired anew at the world's most intense places-and at your own strength in discovering them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c89c083b47c9d8af3d434a7e7cb79c8e6f146175.jpg"></article>]]></description>
-            <link>http://travel.nationalgeographic.com/travel/photos-top-10-extreme-environments/?sf27982602=1#/tucson-extreme-environment_86070_600x450.jpg</link>
-            <guid isPermaLink="false">b45a288d-93de-4c82-9be9-0518ca2cdc19</guid>
-            <pubDate>Sun, 05 Jun 2016 21:50:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
