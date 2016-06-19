@@ -4,7 +4,7 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 22:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2016 01:19:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[One-Earth.Community]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.one-earthcommunity.photography/</link>
             <guid isPermaLink="false">3941ea8e-441e-49ce-88fa-45c731638dca</guid>
             <pubDate>Sat, 18 Jun 2016 01:53:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Devastating aerial photos of toxic waste all over the world]]></title>
+            <description><![CDATA[<article><h1>Devastating aerial photos of toxic waste all over the world</h1><p>Energy conservation </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0f40cdf9c36e6cf664b74e876160b490/noop.jpg?input=http%3A%2F%2Fstatic2.businessinsider.com%2Fimage%2F57640da552bcd01b008ca03c-1200%2Ftoxic-waste-3301-005.jpg"></article>]]></description>
+            <link>http://www.businessinsider.com/aerial-photos-of-toxic-waste-2016-6</link>
+            <guid isPermaLink="false">ed59214d-dd1c-4d97-82d1-3c24ce63b8ad</guid>
+            <pubDate>Sun, 19 Jun 2016 01:19:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Repurposing an old shipping container...]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.techinsider.io/netflix-documentaries-about-future-2016-6</link>
             <guid isPermaLink="false">f58aaf22-22c3-4c37-b03a-9a0e7544b73c</guid>
             <pubDate>Wed, 08 Jun 2016 18:57:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[great message]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39e5ceb8-ae07-4690-b806-414fbb111ce9.png" alt="" title="">]]></description>
-            <link>https://thegrid.ai/one-earth-community/great-message/index.html</link>
-            <guid isPermaLink="false">34fc4d5e-3832-4c12-b2ee-cab8b81e071a</guid>
-            <pubDate>Tue, 07 Jun 2016 11:11:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
