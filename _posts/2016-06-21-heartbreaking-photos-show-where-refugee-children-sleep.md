@@ -1,5 +1,6 @@
 ---
-dateModified: '2016-06-21T02:49:59.238Z'
+dateModified: '2016-06-21T02:57:59.005Z'
+datePublished: '2016-06-21T02:58:34.240Z'
 description: >-
   Walaa is afraid of her pillow. That's because night -- when the 5-year-old is
   supposed to put her head on her pillow -- is when the attacks happened. Walaa,
@@ -10,7 +11,6 @@ isBasedOnUrl: >-
   http://www.huffingtonpost.com/entry/moving-photos-reveal-why-refugee-children-are-afraid-of-their-pillows_us_57645f36e4b0853f8bf0f3eb
 title: Heartbreaking Photos Show Where Refugee Children Sleep
 author: []
-datePublished: '2016-06-21T02:50:15.706Z'
 starred: false
 sourcePath: _posts/2016-06-21-heartbreaking-photos-show-where-refugee-children-sleep.md
 _context: 'http://schema.org'
