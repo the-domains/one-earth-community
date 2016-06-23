@@ -4,7 +4,7 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 16:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 20:23:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[One-Earth.Community]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.one-earthcommunity.photography/</link>
             <guid isPermaLink="false">3941ea8e-441e-49ce-88fa-45c731638dca</guid>
             <pubDate>Sat, 18 Jun 2016 01:53:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pairi Daiza: le bébé panda commence à prendre des couleurs (photos)]]></title>
+            <description><![CDATA[<article><h1>Pairi Daiza: le bébé panda commence à prendre des couleurs (photos)</h1><p>Finis (ou presque) la petite " crevette rose " qui se teinte de blanc et noir. Après une semaine de silence radio, les nouvelles sont bonnes. Finis (ou presque) la petite " crevette rose ", le bébé panda a commencé à faire sortir ses couleurs.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3778b04852d6c0f8dd6ed2d407c1be1/croprotate.jpg?cropheight=626&cropwidth=1200&degrees=0&input=http%3A%2F%2Fls.rosselcdn.net%2Fsites%2Fdefault%2Ffiles%2Fimagecache%2F1200x627%2F2016%2F06%2F20%2F736407562_B978999537Z.1_20160620171203_000_GP9729QBN.1-0.jpg&x=0&y=0"></article>]]></description>
+            <link>http://mobile.lesoir.be/1244499/article/demain-terre/biodiversite/2016-06-20/pairi-daiza-bebe-panda-commence-prendre-des-couleurs-photos</link>
+            <guid isPermaLink="false">906dff84-c573-4fbe-b73e-2635b877ba63</guid>
+            <pubDate>Thu, 23 Jun 2016 20:23:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[True love...]]></title>
@@ -68,13 +75,6 @@
             <link>http://m.wfp.org</link>
             <guid isPermaLink="false">3be0224d-e584-411a-9a93-98b3752d8bf9</guid>
             <pubDate>Mon, 20 Jun 2016 03:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Freight farms]]></title>
-            <description><![CDATA[<article><h1>Freight farms</h1><p>Gaining trust through nourishment </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fe49f74e60ba2ed63e9a26f419b80df0/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FcQiOl7FyrMk%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/cQiOl7FyrMk</link>
-            <guid isPermaLink="false">6bd1b17e-efaa-4507-b2cb-0d5bee06dcbf</guid>
-            <pubDate>Mon, 20 Jun 2016 02:16:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
