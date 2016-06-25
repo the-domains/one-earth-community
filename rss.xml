@@ -4,7 +4,7 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 12:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 12:41:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[One-Earth.Community]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.one-earthcommunity.photography/</link>
             <guid isPermaLink="false">3941ea8e-441e-49ce-88fa-45c731638dca</guid>
             <pubDate>Sat, 18 Jun 2016 01:53:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My ancestral geocode...]]></title>
+            <description><![CDATA[<article><h1>My ancestral geocode...</h1><p>Explore the home of your ancestors with NatGeo as your tour guide. While this specific area probably is not the town, my ancestors were from the country. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/833b9d2603b4af6a2710ddf882e75121/noop.jpg?input=http%3A%2F%2Fwww.nationalgeographic.com%2Fcontent%2Fdam%2Ftravel%2Frights-exempt%2FTravel-2016%2FWhere-The-Locals-Go%2FLjubljana%2Fljubljana-city-view-sunset.ngsversion.1466436316719.jpg"></article>]]></description>
+            <link>http://www.nationalgeographic.com/travel/where-the-locals-go/europe/slovenia/city-local-travel-tips-ljubljana-slovenia/</link>
+            <guid isPermaLink="false">e740ed0d-2d79-4f17-ac10-8c3f2d466b30</guid>
+            <pubDate>Sat, 25 Jun 2016 12:40:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Local's Guide to Ljubljana, Slovenia]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7022bb3-b471-41f7-991c-e724d35562e5.jpg</link>
             <guid isPermaLink="false">88837bdf-5f48-422b-866b-c6842ad6b1ae</guid>
             <pubDate>Tue, 21 Jun 2016 23:20:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Heartbreaking Photos Show Where Refugee Children Sleep]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a6406aa-eb47-4166-9a78-d0d856eeea84.jpg">]]></description>
-            <link>http://www.huffingtonpost.com/entry/moving-photos-reveal-why-refugee-children-are-afraid-of-their-pillows_us_57645f36e4b0853f8bf0f3eb</link>
-            <guid isPermaLink="false">2b564068-a960-4ac1-8482-5409d4a9badf</guid>
-            <pubDate>Tue, 21 Jun 2016 03:38:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
