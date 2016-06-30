@@ -4,7 +4,7 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 14:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 15:07:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[One-Earth.Community]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.one-earthcommunity.photography/</link>
             <guid isPermaLink="false">3941ea8e-441e-49ce-88fa-45c731638dca</guid>
             <pubDate>Sat, 18 Jun 2016 01:53:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bionic Leaf]]></title>
+            <description><![CDATA[<article><h1>Bionic Leaf</h1><p>Harvard scientists have invented an artificial leaf that quickly and efficiently converts solar energy to fuel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06c07d19aee7694e30f0474b3fd540d13a8d2bdf.jpg"></article>]]></description>
+            <link>http://www.sciencechannel.com/tv-shows/science-channel-presents/news/dnews-videos/this-bionic-leaf-can-convert-solar-energy-to-fuel/</link>
+            <guid isPermaLink="false">303161c1-ae66-4ebe-bc47-f0ae793be7ba</guid>
+            <pubDate>Thu, 30 Jun 2016 15:07:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/natgeophotos/status/746344465951039488</link>
             <guid isPermaLink="false">3639db47-e9ba-4bd2-8836-3fbeb3e2bd41</guid>
             <pubDate>Fri, 24 Jun 2016 16:52:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pairi Daiza: le bébé panda commence à prendre des couleurs (photos)]]></title>
-            <description><![CDATA[<article><h1>Pairi Daiza: le bébé panda commence à prendre des couleurs (photos)</h1><p>Finis (ou presque) la petite " crevette rose " qui se teinte de blanc et noir. Après une semaine de silence radio, les nouvelles sont bonnes. Finis (ou presque) la petite " crevette rose ", le bébé panda a commencé à faire sortir ses couleurs.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3778b04852d6c0f8dd6ed2d407c1be1/croprotate.jpg?cropheight=626&cropwidth=1200&degrees=0&input=http%3A%2F%2Fls.rosselcdn.net%2Fsites%2Fdefault%2Ffiles%2Fimagecache%2F1200x627%2F2016%2F06%2F20%2F736407562_B978999537Z.1_20160620171203_000_GP9729QBN.1-0.jpg&x=0&y=0"></article>]]></description>
-            <link>http://mobile.lesoir.be/1244499/article/demain-terre/biodiversite/2016-06-20/pairi-daiza-bebe-panda-commence-prendre-des-couleurs-photos</link>
-            <guid isPermaLink="false">906dff84-c573-4fbe-b73e-2635b877ba63</guid>
-            <pubDate>Thu, 23 Jun 2016 20:23:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
