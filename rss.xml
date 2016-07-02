@@ -4,7 +4,7 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 11:34:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 21:07:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[One-Earth.Community]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.one-earthcommunity.photography/</link>
             <guid isPermaLink="false">3941ea8e-441e-49ce-88fa-45c731638dca</guid>
             <pubDate>Thu, 30 Jun 2016 15:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elie Wiesel, Holocaust survivor and Nobel laureate, dead at 87]]></title>
+            <description><![CDATA[<article><h1>Elie Wiesel, Holocaust survivor and Nobel laureate, dead at 87</h1><p>Elie Wiesel, a Holocaust survivor and author who fought for peace, human rights and simple human decency, has died at the age of 87, a spokesman for Israel's Holocaust memorial, Yad Vashem, said Saturday. Wiesel, who won the Nobel Peace Prize in 1986, recounted his family being sent to the Nazi concentration camps in his first book, "Night," which was published in 1955.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aed4731bdc8b54abd1e62037ac1f7e16/noop.png?input=http%3A%2F%2Fwww.wgal.com%2Fimage%2Fview%2F-%2F40329642%2FhighRes%2F3%2F-%2Fmaxh%2F630%2Fmaxw%2F1200%2F-%2F5y62tz%2F-%2FElie-Wiesel-png.png"></article>]]></description>
+            <link>http://bit.ly/29l0vT4</link>
+            <guid isPermaLink="false">b6649b06-7da3-4a90-be90-cd8ec714d995</guid>
+            <pubDate>Sat, 02 Jul 2016 21:07:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My Country]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.nationalgeographic.com/travel/where-the-locals-go/europe/slovenia/city-local-travel-tips-ljubljana-slovenia/</link>
             <guid isPermaLink="false">e740ed0d-2d79-4f17-ac10-8c3f2d466b30</guid>
             <pubDate>Sat, 25 Jun 2016 12:40:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hello...]]></title>
-            <description><![CDATA[<article><h1>Hello...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8df76db8-616a-4f32-8d0d-43742cd17bdc.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8df76db8-616a-4f32-8d0d-43742cd17bdc.jpg</link>
-            <guid isPermaLink="false">05dbc540-3d7c-4833-8040-da3655ba0f95</guid>
-            <pubDate>Fri, 24 Jun 2016 22:14:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
