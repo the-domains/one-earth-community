@@ -4,7 +4,7 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 21:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 13:23:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[One-Earth.Community]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.one-earthcommunity.photography/</link>
             <guid isPermaLink="false">3941ea8e-441e-49ce-88fa-45c731638dca</guid>
             <pubDate>Thu, 30 Jun 2016 15:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Juno Space Probe Is Set To Enter Jupiter's Orbit On Monday]]></title>
+            <description><![CDATA[<article><h1>Juno Space Probe Is Set To Enter Jupiter's Orbit On Monday</h1><p>While all of this is very fascinating I am not sure how it will course correct humanities current path of...well you fill in the blank. Just thinking...ricko</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e8f9761dd771b793e624c3e3d17d39f1/noop.jpg?input=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2016%2F06%2F20%2Fjuno-2_wide-3dcf3ec4681fbbc82c163985fece9273d9b90e2c.jpg%3Fs%3D1400"></article>]]></description>
+            <link>http://www.npr.org/sections/thetwo-way/2016/07/03/482534266/juno-space-probe-is-set-to-enter-jupiters-orbit-on-monday</link>
+            <guid isPermaLink="false">978610ec-7e12-4ac5-a28d-c8e3ce4f6391</guid>
+            <pubDate>Sun, 03 Jul 2016 13:23:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elie Wiesel, Holocaust survivor and Nobel laureate, dead at 87]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.brainpickings.org/2013/10/15/humans-of-new-york-brandon-stanton-book/</link>
             <guid isPermaLink="false">52e653bc-563e-4429-9e43-49b617ebae43</guid>
             <pubDate>Sun, 26 Jun 2016 16:21:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My ancestral geocode...]]></title>
-            <description><![CDATA[<article><h1>My ancestral geocode...</h1><p>Explore the home of your ancestors with NatGeo as your tour guide. While this specific area probably is not the town, my ancestors were from the country. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/833b9d2603b4af6a2710ddf882e75121/noop.jpg?input=http%3A%2F%2Fwww.nationalgeographic.com%2Fcontent%2Fdam%2Ftravel%2Frights-exempt%2FTravel-2016%2FWhere-The-Locals-Go%2FLjubljana%2Fljubljana-city-view-sunset.ngsversion.1466436316719.jpg"></article>]]></description>
-            <link>http://www.nationalgeographic.com/travel/where-the-locals-go/europe/slovenia/city-local-travel-tips-ljubljana-slovenia/</link>
-            <guid isPermaLink="false">e740ed0d-2d79-4f17-ac10-8c3f2d466b30</guid>
-            <pubDate>Sat, 25 Jun 2016 12:40:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
