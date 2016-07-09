@@ -4,7 +4,7 @@
         <description><![CDATA[One Earth Community]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 11:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 12:35:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[One-Earth.Community]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.one-earthcommunity.photography/</link>
             <guid isPermaLink="false">3941ea8e-441e-49ce-88fa-45c731638dca</guid>
             <pubDate>Thu, 30 Jun 2016 15:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tap the Earth...go to your country 🌎]]></title>
+            <description><![CDATA[<article><h1>Tap the Earth...go to your country 🌎</h1><p>Tap the Earth...go to your country 🌍</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbeeb494-ba60-49ae-baa2-895cfe541870.jpg"></article>]]></description>
+            <link>https://thegrid.ai/myallacrossamerica/</link>
+            <guid isPermaLink="false">c336da17-573e-4afd-bc23-37f5cb825d5f</guid>
+            <pubDate>Sat, 09 Jul 2016 12:35:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Taiwan Typhoon]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/beadfba7-643c-4aff-913f-d927e54feaec.jpg</link>
             <guid isPermaLink="false">7cb3c467-2fb9-4c3a-8981-5cb9f19918b5</guid>
             <pubDate>Thu, 30 Jun 2016 14:44:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wind, Cold, and Altitude Sickness: Winter at the South Pole]]></title>
-            <description><![CDATA[<article><h1>Wind, Cold, and Altitude Sickness: Winter at the South Pole</h1><p>Right now, a daring rescue mission is racing against time and harsh conditions to save a sick worker at the South Pole. Dangerous winds, punishing cold, and round-the-clock darkness make flights to Antarctica extremely rare at this time of year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2d095cdf0eff14804ff3e3e11bec233c/croprotate.jpg?cropheight=1366&cropwidth=2048&degrees=0&input=http%3A%2F%2Fwww.nationalgeographic.com%2Fcontent%2Fdam%2Fadventure%2Frights-exempt%2Fantarctica-south-pole-follow-up%2Fsven-lidstrom-south-pole-night.ngsversion.1466459546179.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.nationalgeographic.com/adventure/features/south-pole-Antarctica-winter-weather/?utm_source=Twitter&amp;utm_medium=Social&amp;utm_content=link_tw20160625adv-southpole&amp;utm_campaign=Content&amp;sf29609658=1</link>
-            <guid isPermaLink="false">26047c97-072c-499f-8104-934382fd976a</guid>
-            <pubDate>Wed, 29 Jun 2016 22:54:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
