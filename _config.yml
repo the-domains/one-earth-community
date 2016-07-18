@@ -33,6 +33,10 @@ navigation:
     url: 'https://thegrid.ai/one-earth-challanged/'
     name: One.Earth Challenged
     type: external
+  - id: 'http://thegrid.ai/justme/'
+    url: 'http://thegrid.ai/justme/'
+    name: Just Me & You
+    type: external
 favicon: null
 collections:
   - index:
