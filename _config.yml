@@ -29,6 +29,10 @@ navigation:
     url: 'https://testing.thegrid.io/app'
     name: Login
     type: external
+  - id: 'https://thegrid.ai/one-earth-challanged/'
+    url: 'https://thegrid.ai/one-earth-challanged/'
+    name: One.Earth Challengd
+    type: external
 favicon: null
 collections:
   - index:
