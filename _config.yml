@@ -37,6 +37,10 @@ navigation:
     url: 'http://thegrid.ai/justme/'
     name: Just Me & You
     type: external
+  - id: 'https://thegrid.ai/myallacrossamerica/'
+    url: 'https://thegrid.ai/myallacrossamerica/'
+    name: My Country
+    type: external
 favicon: null
 collections:
   - index:
