@@ -1,14 +1,14 @@
 ---
 author: []
 title: Rope bridge in Pakistan
-dateModified: '2016-07-12T13:29:14.833Z'
-datePublished: '2016-07-12T13:31:21.534Z'
+dateModified: '2016-07-20T00:11:36.964Z'
+datePublished: '2016-07-20T00:11:37.301Z'
 isBasedOnUrl: ''
 description: >-
   http://photography.nationalgeographic.com/photography/photo-of-the-day/hussaini-bridge-pakistan/?utm_source=Twitter&utility
   m_medium=Social&utm_content=link_tw201606712photo-pod&utm_campaign=Content&sf30738301=1
-starred: false
 sourcePath: _posts/2016-07-12-rope-bridge-in-pakistan.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
