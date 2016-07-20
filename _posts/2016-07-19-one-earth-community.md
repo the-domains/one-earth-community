@@ -1,5 +1,5 @@
 ---
-dateModified: '2016-07-19T19:31:59.240Z'
+dateModified: '2016-07-20T00:03:22.741Z'
 author: []
 title: One Earth Community
 isBasedOnUrl: >-
@@ -8,8 +8,8 @@ description: >-
   In this day where the planet Earth is said to have “shrunk” due to technology,
   humanity has seemed to adapted to the convergence of different cultures.
 sourcePath: _posts/2016-07-19-one-earth-community.md
-datePublished: '2016-07-19T19:32:38.586Z'
-starred: false
+datePublished: '2016-07-20T00:03:23.817Z'
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
