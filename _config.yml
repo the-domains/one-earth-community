@@ -14,7 +14,7 @@ collections:
 color:
   saturation: 0.8125
   brandStrength: 0
-  lightness: 0.6439313
+  lightness: 0.7986037
   brandColors:
     - '#c3c3c3'
     - '#393c35'
@@ -22,6 +22,10 @@ color:
     - '#fdfee0'
     - '#fcef41'
   rhythmicContrast: 0.5
+cta:
+  bucket: null
+  version: null
+  domain: null
 navigation:
   - id: 'https://testing.thegrid.io/app'
     url: 'https://testing.thegrid.io/app'
@@ -39,16 +43,12 @@ navigation:
     url: 'https://thegrid.ai/myallacrossamerica/'
     name: My Country
     type: external
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
 name: One Earth Community
-favicon: null
 opengraph:
   image: null
   type: null
