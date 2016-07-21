@@ -1,8 +1,20 @@
-typography_spectrum: 0.40024
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.8125
   brandStrength: 0
-  lightness: 0.4516649
+  lightness: 0.5064447
   brandColors:
     - '#c3c3c3'
     - '#393c35'
@@ -10,20 +22,15 @@ color:
     - '#fdfee0'
     - '#fcef41'
   rhythmicContrast: 0.5
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.6245972
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: One Earth Community
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
 navigation:
   - id: 'https://testing.thegrid.io/app'
     url: 'https://testing.thegrid.io/app'
@@ -41,17 +48,10 @@ navigation:
     url: 'https://thegrid.ai/myallacrossamerica/'
     name: My Country
     type: external
-favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-purpose: []
+name: One Earth Community
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.40024
+layout_spectrum: 0.6245972
