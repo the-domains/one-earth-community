@@ -45,6 +45,10 @@ navigation:
     url: 'https://thegridai.wufoo.com/forms/zkbqkdh11mytyz/'
     name: Support
     type: external
+  - id: 'http://thegrid.ai/one-earth-community-blog/'
+    url: 'http://thegrid.ai/one-earth-community-blog/'
+    name: '"the blog"'
+    type: external
 favicon: null
 collections:
   - index:
