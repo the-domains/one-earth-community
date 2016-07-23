@@ -37,13 +37,13 @@ navigation:
     url: 'https://thegrid.ai/one-earth-challanged/'
     name: 'One Earth Challenged '
     type: external
-  - id: 'http://thegrid.ai/justme/'
-    url: 'http://thegrid.ai/justme/'
-    name: Just Me & You
-    type: external
   - id: 'https://thegrid.ai/myallacrossamerica/'
     url: 'https://thegrid.ai/myallacrossamerica/'
     name: My Country
+    type: external
+  - id: 'http://thegrid.ai/justme/'
+    url: 'http://thegrid.ai/justme/'
+    name: Just Me & You
     type: external
   - id: 'https://thegridai.wufoo.com/forms/zkbqkdh11mytyz/'
     url: 'https://thegridai.wufoo.com/forms/zkbqkdh11mytyz/'
