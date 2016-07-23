@@ -45,6 +45,10 @@ navigation:
     url: 'https://thegridai.wufoo.com/forms/zkbqkdh11mytyz/'
     name: Support
     type: external
+  - id: c5b39223-798b-4c30-a8a3-a6807df0cdbf
+    url: 2016-07-19-one-earth-community.html
+    name: ne Earth Community Challenged will focus attention on humanity’s concerns.
+    type: content
 favicon: null
 collections:
   - index:
