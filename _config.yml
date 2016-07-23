@@ -29,10 +29,6 @@ navigation:
     url: 'https://testing.thegrid.io/app'
     name: Login
     type: external
-  - id: c5b39223-798b-4c30-a8a3-a6807df0cdbf
-    url: 2016-07-19-one-earth-community.html
-    name: About
-    type: content
   - id: 'https://thegrid.ai/one-earth-challanged/'
     url: 'https://thegrid.ai/one-earth-challanged/'
     name: 'One Earth Challenged '
