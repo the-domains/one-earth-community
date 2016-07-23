@@ -45,10 +45,6 @@ navigation:
     url: 'https://thegridai.wufoo.com/forms/zkbqkdh11mytyz/'
     name: Support
     type: external
-  - id: 3988ef50-e6e1-4c4d-9a01-29e8e4611849
-    url: 2016-07-19-one-earth-community.html
-    name: Community and Family are the basis of our mission. Join Us.
-    type: content
 favicon: null
 collections:
   - index:
