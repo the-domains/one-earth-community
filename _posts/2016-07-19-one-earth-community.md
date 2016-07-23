@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-07-23T19:26:46.790Z'
+datePublished: '2016-07-23T19:30:17.634Z'
 sourcePath: _posts/2016-07-19-one-earth-community.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/276536a9-218b-4492-a08e-aeb685e723ef.jpg
 author: []
 via: {}
-dateModified: '2016-07-23T19:26:46.647Z'
+dateModified: '2016-07-23T19:30:17.073Z'
 title: Community and Family are the basis of our mission. Join Us.
 publisher: {}
 description: Has humanity adapted to the convergence of different cultures ?
+hasPage: true
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
+url: community-and-family-are-the-basis-of-our-mission-join-us/index.html
 _type: MediaObject
 
 ---
