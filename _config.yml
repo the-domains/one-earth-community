@@ -41,6 +41,10 @@ navigation:
     url: 'https://thegrid.ai/myallacrossamerica/'
     name: My Country
     type: external
+  - id: 'https://thegridai.wufoo.com/forms/zkbqkdh11mytyz/'
+    url: 'https://thegridai.wufoo.com/forms/zkbqkdh11mytyz/'
+    name: Support
+    type: external
 favicon: null
 collections:
   - index:
