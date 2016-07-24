@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-24T12:47:55.906Z'
+datePublished: '2016-07-24T12:53:35.501Z'
 sourcePath: _posts/2016-07-24-as-a-member-of-one-earth-community.md
 author: []
 via: {}
-dateModified: '2016-07-24T12:47:55.282Z'
+dateModified: '2016-07-24T12:53:34.789Z'
 title: As a Member of One Earth Community...
 publisher: {}
 description: >-
