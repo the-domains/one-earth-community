@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-24T15:52:00.241Z'
+datePublished: '2016-07-24T16:05:33.890Z'
 sourcePath: _posts/2016-07-23-for-family-and-community.md
 author: []
 via: {}
-dateModified: '2016-07-24T15:51:57.363Z'
-title: for family and community
+dateModified: '2016-07-24T16:05:33.500Z'
+title: for family and community...you and your friends
 publisher: {}
-description: you and friends...participate in the exploration of planet earth
+description: ''
 starred: false
 inFeed: true
 hasPage: true
@@ -16,12 +16,11 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# for family and community
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5c7eb470efd846c6040e2f15c1088b49/croprotate.png?cropheight=78&cropwidth=185&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0c2a9265-505f-46b9-aef8-b9be938020c8.png&x=0&y=1)
 
-you and friends...participate in the exploration of planet earth
+# for family and community...you and your friends
 
 * Just Me and You
 * My Country
-* One Earth Community "the blog."
-* One Earth Challenged "the blog."
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f21cf3e-01e7-44fb-8262-6e04df6351f5.png)
+* One Earth Community Blog
+* One Earth Challenged Blog
