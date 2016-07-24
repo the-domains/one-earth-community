@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-24T15:50:12.383Z'
+datePublished: '2016-07-24T15:52:00.241Z'
 sourcePath: _posts/2016-07-23-for-family-and-community.md
 author: []
 via: {}
-dateModified: '2016-07-24T15:50:07.459Z'
+dateModified: '2016-07-24T15:51:57.363Z'
 title: for family and community
 publisher: {}
-description: you and friends...join us in the exploration of planet earth
+description: you and friends...participate in the exploration of planet earth
 starred: false
 inFeed: true
 hasPage: true
@@ -18,7 +18,7 @@ _type: Article
 ---
 # for family and community
 
-you and friends...join us in the exploration of planet earth
+you and friends...participate in the exploration of planet earth
 
 * Just Me and You
 * My Country
