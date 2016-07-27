@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-07-24T16:12:49.699Z'
+datePublished: '2016-07-27T01:14:08.675Z'
 sourcePath: _posts/2016-07-24-as-a-member-of-one-earth-community.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/435d6c38-4ad3-4554-936b-249265f08fac.png
 author: []
 via: {}
-dateModified: '2016-07-24T16:12:45.608Z'
-title: As a Member of One Earth Community...
+dateModified: '2016-07-27T01:14:00.160Z'
+title: One Earth Community...
 publisher: {}
 description: >-
-  Connect with friends and family in exploring the beauty and challenges we face
-  everyday. O.E.C. is your new choice ! Join Us Today !
+  Connect with friends and family while exploring the beauty and challenges we
+  face everyday. O.E.C. is your new choice !
 starred: false
 inFeed: true
 hasPage: false
@@ -20,6 +20,6 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30040140-855e-412c-9ca2-71a439f12e7e.png)
 
-# As a Member of One Earth Community...
+# One Earth Community...
 
-Connect with friends and family in exploring the beauty and challenges we face everyday. O.E.C. is your new choice ! Join Us Today !
+Connect with friends and family while exploring the beauty and challenges we face everyday. O.E.C. is your new choice !
