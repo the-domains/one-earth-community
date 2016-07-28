@@ -25,29 +25,23 @@ cta:
   version: null
   domain: null
 navigation:
-  - id: 'https://testing.thegrid.io/app'
+  - name: Login
     url: 'https://testing.thegrid.io/app'
-    name: Login
     type: external
-  - id: 'http://thegrid.ai/justme/'
+  - name: Just Me & You
     url: 'http://thegrid.ai/justme/'
-    name: Just Me & You
     type: external
-  - id: 'https://thegrid.ai/myallacrossamerica/'
+  - name: My Country
     url: 'https://thegrid.ai/myallacrossamerica/'
-    name: My Country
     type: external
-  - id: 'http://thegrid.ai/one-earth-community-blog/'
+  - name: One Earth Community "the blog"
     url: 'http://thegrid.ai/one-earth-community-blog/'
-    name: One Earth Community "the blog"
     type: external
-  - id: 'https://thegrid.ai/one-earth-challanged/'
+  - name: One Earth Challenged "the blog"
     url: 'https://thegrid.ai/one-earth-challanged/'
-    name: One Earth Challenged "the blog"
     type: external
-  - id: 'https://thegridai.wufoo.com/forms/zkbqkdh11mytyz/'
+  - name: Support
     url: 'https://thegridai.wufoo.com/forms/zkbqkdh11mytyz/'
-    name: Support
     type: external
 favicon: null
 collections:
@@ -62,4 +56,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: we all live under the same sun
 purpose: []
