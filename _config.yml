@@ -1,29 +1,39 @@
-typography_spectrum: 0.004500160226598382
+title: ''
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+description: ''
 color:
-  saturation: 0.12276237015612423
-  brandStrength: 0.27285502827726305
-  lightness: 0.43062383751384914
+  saturation: 0.2733619
+  brandStrength: 0.272855028277263
+  lightness: 0.7105263
   brandColors:
     - '#F2385A'
     - '#F5A503'
     - '#E9F1DF'
     - '#4AD9D9'
     - '#36B1BF'
-  rhythmicContrast: 0.42643371946178377
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.7282301259692758
+  rhythmicContrast: 0.4264337
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: One Earth Community
-cta:
-  bucket: null
-  version: null
-  domain: null
+favicon: null
 navigation:
   - name: Login
     url: 'https://testing.thegrid.io/app'
@@ -43,19 +53,9 @@ navigation:
   - name: Support
     url: 'https://thegridai.wufoo.com/forms/zkbqkdh11mytyz/'
     type: external
-favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: ''
-description: ''
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.004500160226598382
+layout_spectrum: 0.7282301259692758
