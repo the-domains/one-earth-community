@@ -28,6 +28,9 @@ navigation:
   - name: Login
     url: 'https://testing.thegrid.io/app'
     type: external
+  - name: Join Us
+    url: 'https://thegrid.io/#46294'
+    type: external
   - name: Just Me & You
     url: 'http://thegrid.ai/justme/'
     type: external
@@ -42,9 +45,6 @@ navigation:
     type: external
   - name: Support
     url: 'https://thegridai.wufoo.com/forms/zkbqkdh11mytyz/'
-    type: external
-  - name: Join Us
-    url: 'https://thegrid.io/#46294'
     type: external
 favicon: null
 collections:
