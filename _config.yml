@@ -14,26 +14,16 @@ collections:
       number: 10
 description: ''
 color:
-  saturation: 0.03791189705953002
+  saturation: 0.2937701
   brandStrength: 0.03675346518866718
-  rhythmicContrast: 0.523912642383948
+  lightness: 0.320623
   brandColors:
     - '#63A69F'
     - '#F2E1AC'
     - '#F2836B'
     - '#F2594B'
     - '#CD2C24'
-  lightness: 0.4938000852707773
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: One Earth Community
-favicon: null
+  rhythmicContrast: 0.5239127
 navigation:
   - name: Login
     url: 'https://testing.thegrid.io/app'
@@ -56,6 +46,16 @@ navigation:
   - name: Support
     url: 'https://thegridai.wufoo.com/forms/zkbqkdh11mytyz/'
     type: external
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: One Earth Community
 opengraph:
   image: null
   type: null
