@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-01T00:02:37.426Z'
+datePublished: '2016-08-01T00:19:08.337Z'
 sourcePath: _posts/2016-07-23-for-family-and-community.md
 author: []
 via: {}
-dateModified: '2016-08-01T00:02:37.185Z'
+dateModified: '2016-08-01T00:19:08.043Z'
 title: for family and community...you and your friends
 publisher: {}
 description: ''
