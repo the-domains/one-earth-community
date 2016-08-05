@@ -1,18 +1,4 @@
-title: ''
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-description: ''
+typography_spectrum: 0.9017185
 color:
   saturation: 0.2937701
   brandStrength: 0.03675346518866718
@@ -24,6 +10,22 @@ color:
     - '#F2594B'
     - '#CD2C24'
   rhythmicContrast: 0.5239127
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7282301259692758
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fa5f2b6-13de-459d-8890-d4f083687750.png
+name: One Earth Community
+cta:
+  bucket: null
+  version: null
+  domain: null
 navigation:
   - name: Login
     url: 'https://testing.thegrid.io/app'
@@ -46,19 +48,20 @@ navigation:
   - name: Support
     url: 'https://thegridai.wufoo.com/forms/zkbqkdh11mytyz/'
     type: external
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: One Earth Community
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.9017185
-layout_spectrum: 0.7282301259692758
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf933f8-5958-49bb-896a-9ad2d77a2cfa.png
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: ''
+description: ''
+purpose: []
