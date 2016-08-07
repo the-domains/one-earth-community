@@ -26,10 +26,7 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation:
-  - name: Support
-    url: 'https://thegridai.wufoo.com/forms/zkbqkdh11mytyz/'
-    type: external
+navigation: []
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf933f8-5958-49bb-896a-9ad2d77a2cfa.png
 collections:
