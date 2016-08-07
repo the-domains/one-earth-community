@@ -30,6 +30,9 @@ navigation:
   - name: login
     url: 'https://testing.thegrid.io/app'
     type: external
+  - name: sign up
+    url: 'https://thegrid.io/#46294'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf933f8-5958-49bb-896a-9ad2d77a2cfa.png
 collections:
