@@ -27,9 +27,6 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: Join Us
-    url: 'https://thegrid.io/#46294'
-    type: external
   - name: Just Me & You
     url: 'http://thegrid.ai/justme/'
     type: external
