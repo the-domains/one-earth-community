@@ -27,9 +27,6 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: Just Me & You
-    url: 'http://thegrid.ai/justme/'
-    type: external
   - name: My Country
     url: 'https://thegrid.ai/myallacrossamerica/'
     type: external
