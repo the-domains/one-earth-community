@@ -27,9 +27,6 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: One Earth Challenged "the blog"
-    url: 'https://thegrid.ai/one-earth-challanged/'
-    type: external
   - name: Support
     url: 'https://thegridai.wufoo.com/forms/zkbqkdh11mytyz/'
     type: external
