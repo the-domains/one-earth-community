@@ -19,8 +19,7 @@ analytics:
   twitter: null
   google: null
   facebook: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/de65a99f-5983-4c03-aea7-7774970cde5a.png
+logo: null
 name: One Earth Community
 cta:
   bucket: null
