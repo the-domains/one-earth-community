@@ -27,9 +27,6 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: Login
-    url: 'https://testing.thegrid.io/app'
-    type: external
   - name: Join Us
     url: 'https://thegrid.io/#46294'
     type: external
