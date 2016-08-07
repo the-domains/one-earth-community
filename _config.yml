@@ -19,8 +19,7 @@ analytics:
   twitter: null
   google: null
   facebook: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fa5f2b6-13de-459d-8890-d4f083687750.png
+logo: null
 name: One Earth Community
 cta:
   bucket: null
@@ -62,6 +61,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: ''
+title: we all live under the same sun
 description: ''
 purpose: []
