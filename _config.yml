@@ -1,10 +1,40 @@
+title: we all live under the same sun
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+description: one earth...one community
+color:
+  saturation: 0.2937701
+  brandStrength: 0.03675346518866718
+  rhythmicContrast: 0.5239127
+  brandColors:
+    - '#63A69F'
+    - '#F2E1AC'
+    - '#F2836B'
+    - '#F2594B'
+    - '#CD2C24'
+  lightness: 0.320623
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: One Earth Community
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf933f8-5958-49bb-896a-9ad2d77a2cfa.png
-layout_spectrum: 0.67945
-typography_spectrum: 0.9017185
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/611e9138-01d2-48e0-8e4f-ab29ff65c6a2.png
 navigation:
   - name: login
     url: 'https://testing.thegrid.io/app'
@@ -24,42 +54,10 @@ navigation:
   - name: 'My Country '
     url: 'https://thegrid.ai/myallacrossamerica/'
     type: external
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: we all live under the same sun
-description: one earth...one community
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/78f94f3d-d7b5-4e0b-91cd-3c6172fb4a6a.png
+  image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#63A69F'
-    - '#F2E1AC'
-    - '#F2836B'
-    - '#F2594B'
-    - '#CD2C24'
-  brandStrength: 0.03675346518866718
-  lightness: 0.320623
-  saturation: 0.2937701
-  rhythmicContrast: 0.5239127
-purpose: []
+logo: null
+typography_spectrum: 0.9017185
+layout_spectrum: 0.6922663
