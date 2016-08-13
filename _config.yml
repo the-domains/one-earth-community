@@ -11,7 +11,8 @@ color:
     - '#CD2C24'
   rhythmicContrast: 0.5239127
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/78f94f3d-d7b5-4e0b-91cd-3c6172fb4a6a.png
   type: null
   appId: null
 layout_spectrum: 0.7282301259692758
@@ -19,7 +20,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/611e9138-01d2-48e0-8e4f-ab29ff65c6a2.png
 name: One Earth Community
 cta:
   bucket: null
