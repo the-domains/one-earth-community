@@ -1,32 +1,10 @@
+name: One Earth Community
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf933f8-5958-49bb-896a-9ad2d77a2cfa.png
+layout_spectrum: 0.92461
 typography_spectrum: 0.9017185
-color:
-  saturation: 0.2937701
-  brandStrength: 0.03675346518866718
-  lightness: 0.320623
-  brandColors:
-    - '#63A69F'
-    - '#F2E1AC'
-    - '#F2836B'
-    - '#F2594B'
-    - '#CD2C24'
-  rhythmicContrast: 0.5239127
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/78f94f3d-d7b5-4e0b-91cd-3c6172fb4a6a.png
-  type: null
-  appId: null
-layout_spectrum: 0.7282301259692758
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/611e9138-01d2-48e0-8e4f-ab29ff65c6a2.png
-name: One Earth Community
-cta:
-  bucket: null
-  version: null
-  domain: null
 navigation:
   - name: login
     url: 'https://testing.thegrid.io/app'
@@ -46,8 +24,6 @@ navigation:
   - name: 'My Country '
     url: 'https://thegrid.ai/myallacrossamerica/'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf933f8-5958-49bb-896a-9ad2d77a2cfa.png
 collections:
   - index:
       path: /
@@ -62,4 +38,28 @@ collections:
       number: 10
 title: we all live under the same sun
 description: one earth...one community
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/78f94f3d-d7b5-4e0b-91cd-3c6172fb4a6a.png
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#63A69F'
+    - '#F2E1AC'
+    - '#F2836B'
+    - '#F2594B'
+    - '#CD2C24'
+  brandStrength: 0.03675346518866718
+  lightness: 0.320623
+  saturation: 0.2937701
+  rhythmicContrast: 0.5239127
 purpose: []
