@@ -1,3 +1,16 @@
+layout_spectrum: 0.048057458363473415
+typography_spectrum: 0.3997487830929458
+color:
+  saturation: 0.04809747030958533
+  brandStrength: 0.22620330122299492
+  rhythmicContrast: 0.28358261357061565
+  brandColors:
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+  lightness: 0.4290709423366934
 title: we all live under the same sun
 purpose: []
 collections:
@@ -13,17 +26,6 @@ collections:
     permalink:
       path: '/:title/'
 description: one earth...one community
-color:
-  saturation: 0.2937701
-  brandStrength: 0.03675346518866718
-  rhythmicContrast: 0.5239127
-  brandColors:
-    - '#63A69F'
-    - '#F2E1AC'
-    - '#F2836B'
-    - '#F2594B'
-    - '#CD2C24'
-  lightness: 0.320623
 navigation:
   - name: login
     url: 'https://testing.thegrid.io/app'
@@ -59,5 +61,3 @@ opengraph:
   type: null
   appId: null
 logo: null
-typography_spectrum: 0.9017185
-layout_spectrum: 0.5354457
