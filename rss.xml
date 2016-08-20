@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[One Earth Community]]></title>
-        <description><![CDATA[One Earth Community]]></description>
+        <title><![CDATA[we all live under the same sun]]></title>
+        <description><![CDATA[we all live under the same sun]]></description>
         <link>https://thegrid.ai/one-earth-community/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 00:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 11:43:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-earth-community/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/435d6c38-4ad3-4554-936b-249265f08fac.png</link>
             <guid isPermaLink="false">3b9bd744-ba8a-4e4e-924d-d5caafddb64b</guid>
             <pubDate>Mon, 01 Aug 2016 00:27:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[for family and community...you and your friends]]></title>
-            <description><![CDATA[<article><h1>for family and community...you and your friends</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0aa9c1d2b7546bc97d3482d397234ca8/croprotate.png?cropheight=746&cropwidth=1825&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F66634283-ebc6-460d-aae7-a7a64f47a508.png&x=0&y=24"></article>]]></description>
-            <link>https://thegrid.ai/one-earth-community/for-family-and-communityyou-and-your-friends/index.html</link>
-            <guid isPermaLink="false">33e71803-7786-4fec-9cf3-1088f1825924</guid>
-            <pubDate>Mon, 01 Aug 2016 00:27:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
