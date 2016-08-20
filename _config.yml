@@ -1,4 +1,3 @@
-layout_spectrum: 0.048057458363473415
 typography_spectrum: 0.3997487830929458
 color:
   saturation: 0.04809747030958533
@@ -11,21 +10,24 @@ color:
     - '#DB9E36'
     - '#BD4932'
   lightness: 0.4290709423366934
-title: we all live under the same sun
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-description: one earth...one community
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.048057458363473415
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+author:
+  name: rick o
+  email: rick.yourfamilyplaces@comcast.net
+logo: null
+name: One Earth Community
+cta:
+  bucket: null
+  version: null
+  domain: null
 navigation:
   - name: login
     url: 'https://testing.thegrid.io/app'
@@ -45,19 +47,20 @@ navigation:
   - name: 'My Country '
     url: 'https://thegrid.ai/myallacrossamerica/'
     type: external
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf933f8-5958-49bb-896a-9ad2d77a2cfa.png
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: One Earth Community
-opengraph:
-  image: null
-  type: null
-  appId: null
-logo: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: we all live under the same sun
+description: one earth...one community
+purpose: []
