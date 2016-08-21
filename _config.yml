@@ -29,9 +29,6 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: sign up
-    url: 'https://thegrid.io/#46294'
-    type: external
   - name: me and you
     url: 'http://thegrid.ai/justme/'
     type: external
