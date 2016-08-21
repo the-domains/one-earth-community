@@ -22,7 +22,8 @@ analytics:
 author:
   name: rick o
   email: rick.yourfamilyplaces@comcast.net
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7feb80c-77fd-4716-ac73-35e91580fa2c.png
 name: One Earth Community
 cta:
   bucket: null
