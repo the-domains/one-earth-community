@@ -28,10 +28,6 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation:
-  - name: 'My Country '
-    url: 'https://thegrid.ai/myallacrossamerica/'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf933f8-5958-49bb-896a-9ad2d77a2cfa.png
 collections:
