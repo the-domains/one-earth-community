@@ -1,16 +1,16 @@
-layout_spectrum: 0.014555827714502811
-typography_spectrum: 0.35841990704648197
+layout_spectrum: 0.8077712738886476
+typography_spectrum: 0.2896371001843363
 color:
-  saturation: 0.5771340364590287
-  brandStrength: 0.20295639778487384
-  rhythmicContrast: 0.7499932474456728
+  saturation: 0.8494460950605571
+  brandStrength: 0.1984039710368961
+  rhythmicContrast: 0.4685765157919377
   brandColors:
     - '#105B63'
     - '#FFFAD5'
     - '#FFD34E'
     - '#DB9E36'
     - '#BD4932'
-  lightness: 0.14097164990380406
+  lightness: 0.13749062991701066
 coverPrefs:
   filter: false
 opengraph:
