@@ -56,7 +56,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: we all live under the same sun
+title: ''
 coverPrefs:
   filter: false
 description: ''
