@@ -39,6 +39,9 @@ navigation:
   - name: just me
     url: 'http://thegrid.ai/justme/'
     type: external
+  - name: About
+    id: 2e5f36fd-63cc-40a5-8054-021d3a85c04e
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf933f8-5958-49bb-896a-9ad2d77a2cfa.png
 collections:
@@ -53,7 +56,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: ''
+title: we all live under the same sun
 coverPrefs:
   filter: false
 description: ''
