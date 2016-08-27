@@ -42,6 +42,9 @@ navigation:
   - name: About
     id: 2e5f36fd-63cc-40a5-8054-021d3a85c04e
     type: content
+  - name: challanges...
+    url: 'https://thegrid.ai/one-earth-challanged/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf933f8-5958-49bb-896a-9ad2d77a2cfa.png
 collections:
