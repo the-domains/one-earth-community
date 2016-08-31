@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 description: ''
 color:
   saturation: 0.1050340803340077
@@ -26,6 +26,24 @@ color:
   lightness: 0.5386176810134202
 coverPrefs:
   filter: false
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf933f8-5958-49bb-896a-9ad2d77a2cfa.png
+author:
+  name: rick o
+  email: rick.yourfamilyplaces@comcast.net
+name: One Earth Community
+opengraph:
+  image: null
+  type: null
+  appId: null
 navigation:
   - name: community blog
     url: 'http://thegrid.ai/one-earth-community-blog/'
@@ -42,25 +60,7 @@ navigation:
   - name: About
     id: 2e5f36fd-63cc-40a5-8054-021d3a85c04e
     type: content
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: One Earth Community
-author:
-  name: rick o
-  email: rick.yourfamilyplaces@comcast.net
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf933f8-5958-49bb-896a-9ad2d77a2cfa.png
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7feb80c-77fd-4716-ac73-35e91580fa2c.png
 typography_spectrum: 0.03950383048504591
-layout_spectrum: 0.7137486
+layout_spectrum: 0.8952738
