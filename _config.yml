@@ -1,6 +1,20 @@
-typography_spectrum: 0.03950383048504591
+title: ''
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: ''
 color:
-  saturation: 0.10503408033400774
+  saturation: 0.1050340803340077
   brandStrength: 0.224048180738464
   rhythmicContrast: 0.7713874033652246
   brandColors:
@@ -10,25 +24,8 @@ color:
     - '#046380'
     - '#002F2F'
   lightness: 0.5386176810134202
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.28374396939761937
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-author:
-  name: rick o
-  email: rick.yourfamilyplaces@comcast.net
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7feb80c-77fd-4716-ac73-35e91580fa2c.png
-name: One Earth Community
-cta:
-  bucket: null
-  version: null
-  domain: null
+coverPrefs:
+  filter: false
 navigation:
   - name: community blog
     url: 'http://thegrid.ai/one-earth-community-blog/'
@@ -45,22 +42,25 @@ navigation:
   - name: About
     id: 2e5f36fd-63cc-40a5-8054-021d3a85c04e
     type: content
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: One Earth Community
+author:
+  name: rick o
+  email: rick.yourfamilyplaces@comcast.net
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf933f8-5958-49bb-896a-9ad2d77a2cfa.png
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: ''
-coverPrefs:
-  filter: false
-description: ''
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7feb80c-77fd-4716-ac73-35e91580fa2c.png
+typography_spectrum: 0.03950383048504591
+layout_spectrum: 0.7137486
