@@ -1,3 +1,18 @@
+layout_spectrum: 0.5905344234779477
+typography_spectrum: 0.35478265839628875
+color:
+  saturation: 0.1050340803340077
+  brandStrength: 0.224048180738464
+  rhythmicContrast: 0.7713874033652246
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  lightness: 0.5386176810134202
+coverPrefs:
+  filter: false
 title: ''
 purpose: []
 collections:
@@ -13,19 +28,6 @@ collections:
     permalink:
       path: '/:title/'
 description: ''
-color:
-  saturation: 0.1050340803340077
-  brandStrength: 0.224048180738464
-  rhythmicContrast: 0.7713874033652246
-  brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  lightness: 0.5386176810134202
-coverPrefs:
-  filter: false
 cta:
   bucket: null
   version: null
@@ -62,5 +64,3 @@ navigation:
     type: content
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7feb80c-77fd-4716-ac73-35e91580fa2c.png
-typography_spectrum: 0.03950383048504591
-layout_spectrum: 0
